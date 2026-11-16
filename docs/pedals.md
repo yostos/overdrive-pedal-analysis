@@ -445,7 +445,7 @@ uv run --with numpy --with scipy --with soundfile --with matplotlib --with libro
 
 | 順位 | ペダル | 最も近い別のペダル（距離） | 理由 |
 |---:|---|---|---|
-| 1 | Strymon Riverside | 設定により 13〜31 | 1 台でクリーントーンの補正（low）、軽いクランチ（low-mid）、中ゲイン（high）を担う。帯域の割合（Mid Push）と歪みの量（High/Low）を別々に切り替えられる。PPSE Classic の代わりにもなる |
+| 1 | Strymon Riverside | low：Broadcast Si（31）、low-mid：PPSE Classic（13）、high：PPSE Classic（25） | 1 台でクリーントーンの補正（low）、軽いクランチ（low-mid）、中ゲイン（high）を担う。帯域の割合（Mid Push）と歪みの量（High/Low）を別々に切り替えられる。PPSE Classic の代わりにもなる |
 | 2 | MXR Distortion+ | DS-1W（21） | 低域（<250Hz）の割合 56.0% で 10 台中最大。歪みの量は SD-1W とほぼ同じ（サステイン 2.08 秒と 2.06 秒、高次倍音 +23.0dB と +23.5dB）なのに、クレストファクタは 16.5dB と 12.9dB で、圧縮が弱い。どちらもゲインでは作りにくい |
 | 3 | BOSS DS-1W | Distortion+（21） | 2–5kHz の割合 15.6% で 10 台中最大。ほかの 9 台はすべて 10% 以下 |
 | 4 | Hudson Electronics Broadcast AP-II | Riverside low-mid（16〜17。立ち上がりでは Ge 36、Si 24） | 低域を保ったまま軽く歪ませる役割はほかにない。立ち上がりはほかのペダルと似ておらず、試聴でもほかとかなり違って聞こえた |
