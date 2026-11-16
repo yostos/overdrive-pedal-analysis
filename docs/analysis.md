@@ -52,7 +52,7 @@ uv run --with numpy --with scipy --with soundfile --with matplotlib --with libro
 - 2–5kHz の持ち上がりは DS-1W が最も大きく（平均 +6.8dB、4.9kHz 付近で最大 +17.5dB）、Distortion+（平均 +4.3dB）、Soul Driven（平均 +4.2dB）が続く
 - 150Hz 付近は、PPSE Classic（約 -20dB）、DS-1W（約 -18dB）、SD-1W（約 -17dB）が大きく削れている
 - 80Hz より下は、全ペダルで Raw より 6〜15dB 小さい
-- 110Hz 付近は、ほかのペダルが Raw より 0〜9dB 小さいのに対し、Soul Driven だけ約 3.5dB 大きい。5 弦の共鳴を強く拾っていると考えられる
+- 110Hz 付近は、ほかのペダルが Raw より 0〜9dB 小さいのに対し、Soul Driven だけ約 3.5dB 大きい。110Hz 付近の成分（5 弦の共鳴）は元の音に含まれており、Soul Driven はそれを相対的に強く通している。回路の 120Hz 付近の持ち上げによると考えられる（[pedals.md の Soul Driven](pedals.md#xotic-soul-driven)）
 
 ### A3. 帯域別エネルギー比
 
