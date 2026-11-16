@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+
+# 前処理の出力（tools/align_trim.py で作り直せる）
+wav/aligned/
+
+# pandoc などで生成した HTML
+docs/*.html

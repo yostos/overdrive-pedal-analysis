@@ -1,0 +1,11 @@
+label,サステイン -10dB,圧縮の強さ（クレストファクタが小さい順）,アタックのなだらかさ,スペクトル重心（1 秒間の平均）,9〜20 次倍音の増加（Raw 比）,ピークに対するノイズの大きさ,hf_gain_db,nearest,Raw との距離
+Broadcast Ge,9,8,4,9,10,7,1.7,Broadcast Si（12） / Riverside low-mid（17）,48
+Broadcast Si,8,9,5,10,8,5,6.1,Broadcast Ge（12） / Riverside low-mid（16）,46
+DS-1W,2,1,3,1,2,2,26.5,Distortion+（21） / SD-1W（25）,49
+Distortion+,3,6,6,5,4,3,23.0,DS-1W（21） / SD-1W（28）,39
+PPSE Classic,6,5,8,7,6,10,9.8,Riverside low-mid（13） / Broadcast Si（19）,54
+Riverside low,10,10,10,6,9,6,2.0,Riverside low-mid（29） / Broadcast Si（31）,23
+Riverside low-mid,7,7,9,8,7,9,9.7,PPSE Classic（13） / Broadcast Si（16）,46
+Riverside high,5,4,7,3,5,8,18.4,Riverside low-mid（20） / PPSE Classic（25）,48
+SD-1W,4,3,2,4,3,4,23.5,DS-1W（25） / Distortion+（28）,49
+Soul Driven,1,2,1,2,1,1,29.9,Distortion+（35） / DS-1W（36）,61
